@@ -4,3 +4,9 @@ body {
   color: rgb(23, 85, 167);
   background-color: bisque;
 }
+nav {
+  border-bottom: 1px solid rgb(19, 59, 110);
+}
+.navbar {
+  display: inline;
+}
